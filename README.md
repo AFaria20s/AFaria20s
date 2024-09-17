@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afonso</h1>
-<h3 align="center">Aspiring Computer Engineer</h3>
+<h3 align="center">An aspiring Computer Engineer</h3>
 
 - 🔭 I’m currently working on [Assembly Simulator (FonSim)](https://github.com/AfonsoFaria20s/assembly-simulator)
 
