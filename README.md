@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afonso</h1>
 <h3 align="center">An aspiring Computer Engineer</h3>
 
-- 🔭 I’m currently working on [Assembly Simulator (FonSim)](https://github.com/AfonsoFaria20s/athlemics)
+- 🔭 I’m currently working on [Assembly Simulator (FonSim)](https://github.com/AfonsoFaria20s/assembly-simulator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AfonsoFaria20s?tab=repositories](https://github.com/AfonsoFaria20s?tab=repositories)
 
