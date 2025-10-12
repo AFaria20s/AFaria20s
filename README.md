@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afonso</h1>
-<h3 align="center">An aspiring Computer Engineer</h3>
+<h1 align="center">Hi 👋, Welcome to My Github</h1>
 
 - 🔭 I’m currently working on [Vancer Ores](https://github.com/AFaria20s/Vanilla-Enhancer-Ores) (A minecraft mod)
 
