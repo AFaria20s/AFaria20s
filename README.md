@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h2 align="center">Welcome to my Github page!</h2>
 
- - 🔭 I’m currently working on [DropSort](https://github.com/AFaria20s/DropSort)
+ - 🔭 I’m currently working on [5MinuteDiary](https://github.com/AFaria20s/5MinuteDiary)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AFaria20s?tab=repositories](https://github.com/AFaria20s?tab=repositories)
 <h3 align="center">Languages and Tools:</h3>
