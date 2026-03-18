@@ -1,9 +1,46 @@
-<h1 align="center">Hi 👋</h1>
-<h2 align="center">Welcome to my Github page!</h2>
+<div align="center">
 
- - 🔭 I’m currently working on [5MinuteDiary](https://github.com/AFaria20s/5MinuteDiary)
+```
+   _____  ___________            .__        _______________          
+  /  _  \ \_   _____/____ _______|__|____   \_____  \   _  \   ______
+ /  /_\  \ |    __) \__  \\_  __ \  \__  \   /  ____/  /_\  \ /  ___/
+/    |    \|     \   / __ \|  | \/  |/ __ \_/       \  \_/   \\___ \ 
+\____|__  /\___  /  (____  /__|  |__(____  /\_______ \_____  /____  >
+        \/     \/        \/              \/         \/     \/     \/ 
+```
 
-- 👨‍💻 All of my projects are available [here](https://github.com/AFaria20s?tab=repositories)
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afaria20s&show_icons=true&theme=dark&bg_color=24292e&locale=en&layout=compact" alt="afaria20s" /></p>
+*building things that work*
+
+[![repos](https://img.shields.io/badge/repos-see%20all-1a1b27?style=flat-square&logo=github)](https://github.com/AFaria20s?tab=repositories)
+[![5MinuteDiary](https://img.shields.io/badge/working%20on-5MinuteDiary-e06c75?style=flat-square)](https://github.com/AFaria20s/5MinuteDiary)
+
+</div>
+
+---
+
+<div align="center">
+ 
+### languages & tools
+ 
+<br>
+ 
+<img src="https://skillicons.dev/icons?i=android,arduino,bootstrap,c,css,docker,git,html,java,js,kotlin,mysql,postman,react,sass,spring&perline=8" />
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=afaria20s&layout=compact&theme=tokyonight&hide_border=true)
+&nbsp;&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afaria20s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
+ 
+</div>
+ 
+<div align="center">
+ 
+![Snake](https://github.com/AFaria20s/AFaria20s/blob/output/github-contribution-grid-snake-dark.svg)
+ 
+</div>
+---
