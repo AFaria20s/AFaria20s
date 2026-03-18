@@ -43,4 +43,5 @@
 ![Snake](https://github.com/AFaria20s/AFaria20s/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
+
 ---
