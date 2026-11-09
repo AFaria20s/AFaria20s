@@ -6,8 +6,8 @@
 
 ### About
 
-- Computer engineering at IPVC, Portugal - software engineering, AI, statistics, systems programming
-- OOP, Low-level and Linux enthusiast, terminal-first... always...
+- Computer engineering at UNIPVC, Portugal - software engineering, AI, statistics, systems programming
+- OOP, Low-level and Linux enthusiast, terminal-first... always... :v
 - Latest projects:
 
 **LostOS**, a bare-metal x86 OS written from scratch in C
