@@ -9,8 +9,8 @@
 
 ### Latest projects:
 
-- **LostOS** - a bare-metal x86 OS written from scratch in C
-- **TeamSync** - Cycling teams management made with Java
+- **[LostOS](https://github.com/AFaria20s/LostOS)** - a bare-metal x86 OS written from scratch in C
+- **[TeamSync](https://github.com/AFaria20s/TeamSync-Backend)** - Cycling teams management made with Java + Frontend in React
 
 ### Open-source Contributions
 
