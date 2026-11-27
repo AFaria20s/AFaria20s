@@ -15,7 +15,7 @@
 ### Open-source Contributions
 
 - **[uutils/coreutils](https://github.com/uutils/coreutils/)** - Cross-platform reimplementation of the GNU coreutils in `Rust`
-  - [PR #16399](https://github.com/uutils/coreutils/pull/16399) - Fix a panic in split --number=r/K/N on 32-bit targets when N exceeds usize::MAX *(under review)*
+  - [PR #16399](https://github.com/uutils/coreutils/pull/16399) - Fix a panic in split --number=r/K/N on 32-bit targets when N exceeds usize::MAX 
   - [PR #16435](https://github.com/uutils/coreutils/pull/16435) - Correct the hardware capability mapping for PMULL and accept the full PCLMULQDQ name *(under review)*
 
 ### Stats
