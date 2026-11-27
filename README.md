@@ -15,7 +15,7 @@
 ### Open-source Contributions
 
 - **[uutils/coreutils](https://github.com/uutils/coreutils/)** - Cross-platform reimplementation of the GNU coreutils in `Rust`
-  - [PR #16399](https://github.com/uutils/coreutils/pull/16399) - Fix a panic in split --number=r/K/N on 32-bit targets when N exceeds usize::MAX 
+  - [PR #16399](https://github.com/uutils/coreutils/pull/16399) - Fix a panic in split --number=r/K/N on 32-bit targets when N exceeds usize::MAX **(merged)**
   - [PR #16435](https://github.com/uutils/coreutils/pull/16435) - Correct the hardware capability mapping for PMULL and accept the full PCLMULQDQ name *(under review)*
 
 ### Stats
@@ -25,4 +25,4 @@
 
 ![3d contribution graph](./profile-3d-contrib/profile-night-green.svg)
 
-![views](https://komarev.com/ghpvc/?username=AFaria20sE&olor=555555&style=flat-square&label=views)
+![views](https://komarev.com/ghpvc/?username=AFaria20s&color=588855&style=flat-square&label=views)
